@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+  background-color: transparent !important;
+}
+body {
+  margin: 0;
+  overflow-x: hidden !important;
+  background-color: transparent !important;
+}
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans";
+}
+
+.title {
+  font-family: "Cookie", cursive;
+}
+
+.experiencecard {
+  width: 25rem;
+}
+
+/* for hiding scrollbar */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: white;
+  background: #9333ea;
+}
+
+::selection {
+  color: white;
+  background: #9333ea;
+}

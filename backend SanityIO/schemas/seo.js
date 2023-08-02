@@ -1,0 +1,97 @@
+export default {
+    name: 'seo',
+    title: 'SEO',
+    type: 'document',
+    fields: [
+        {
+            name: 'description',
+            title: 'Description',
+            type: 'text',
+            description: 'A brief description of the page',
+        },
+        {
+            name: 'keywords',
+            title: 'Keywords',
+            type: 'text',
+            description: 'A comma-separated list of keywords',
+        },
+        {
+            name: 'og_site_name',
+            title: 'Open Graph Site Name',
+            type: 'string',
+            description: 'The name of the website',
+        },
+        {
+            name: 'og_title',
+            title: 'Open Graph Title',
+            type: 'string',
+            description: 'The title of the page',
+        },
+        {
+            name: 'og_description',
+            title: 'Open Graph Description',
+            type: 'text',
+            description: 'A brief description of the page for social media sharing',
+        },
+        {
+            name: 'og_url',
+            title: 'Open Graph URL',
+            type: 'url',
+            description: 'The URL of the page',
+        },
+        {
+            name: 'canonical_url',
+            title: 'Canonical URL',
+            type: 'url',
+            description: 'The canonical URL of the page',
+        },
+        {
+            name: 'author',
+            title: 'Author',
+            type: 'string',
+            description: 'The name of the author of the page',
+        },
+        {
+            name: 'language',
+            title: 'Language',
+            type: 'string',
+            description: 'The language of the page',
+        },
+        {
+            name: 'twitter_card',
+            title: 'Twitter Card',
+            type: 'string',
+            description: 'The type of Twitter card to use',
+        },
+        {
+            name: 'twitter_site',
+            title: 'Twitter Site',
+            type: 'string',
+            description: 'The Twitter handle of the website',
+        },
+        {
+            name: 'application_name',
+            title: 'Application Name',
+            type: 'string',
+            description: 'The name of the web application',
+        },
+        {
+            name: 'apple_mobile_web_app_title',
+            title: 'Apple Mobile Web App Title',
+            type: 'string',
+            description: 'The title of the web application for iOS devices',
+        },
+        {
+            name: 'favicon',
+            title: 'Favicon',
+            type: 'image',
+            description: 'The icon for the website',
+        },
+        {
+            name: 'title',
+            title: 'Title',
+            type: 'string',
+            description: 'The title of the page',
+        },
+    ],
+};
