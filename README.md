@@ -12,11 +12,13 @@
   <a href="https://harshalkahar.vercel.app/">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
+  
 </p>
+
 
 <p align="center">
   <a href="#introduction-">Introduction</a> •
-  <a href="#development-">Loacal Development</a> •
+  <a href="#localdevelopment-">Loacal Development</a> •
     <a href="#deployment-">Deployment</a> •
   <a href="#license-">License</a>
 </p>
@@ -149,7 +151,7 @@ Step 3. Add the following environment variables in the Vercel dashboard:
 NEXT_SANITY_PROJECT_ID="xxxxxxxx”
 ```
 
-Step 4. Congratulations your applicaton is ready✨
+## Congratulations your applicaton is ready✨
 
 ## License 📄
 
@@ -160,6 +162,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-kahar-4115a321b)
+
+## Check Notion Page 🤝
+
+[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://unruly-fragrance-e98.notion.site/readme-file-for-NextSanity-Blogfolio-6c4eee617496496a87e51f8ce0a139ea?pvs=4)
+
 
 ## Support 🙌
 
