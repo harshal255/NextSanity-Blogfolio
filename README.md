@@ -47,7 +47,7 @@ NextSanity blogfolio understands that you are more than just a resume. That's wh
 
 ## Local Development 💻
 
-Here are the steps to run the portfolio locally.
+Here are the steps to run the portfolio locally. (In your PC doesn't install nodeJS & yarn package manager then you should first install NodeJS & yarn to run the project)
 
 Step 1. Fork [this](https://github.com/harshal255/NextSanity-Blogfolio) repository.
 
